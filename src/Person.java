@@ -6,4 +6,8 @@ public class Person {
         Name = name;
         Age = age;
     }
+
+    public void SayHi(){
+        System.out.println("Hi");
+    }
 }

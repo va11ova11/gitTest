@@ -1,5 +1,7 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("Hello world" + new Person("Valera", 18));
+        Person person = new Person("Valeriy", 18);
+        System.out.println("Hello world");
+        person.SayHi();
     }
 }
