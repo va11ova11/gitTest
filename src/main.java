@@ -4,5 +4,6 @@ public class main {
         System.out.println("Hello world");
         person.SayHi();
         System.out.println(person.Pensia(18));
+        person.sayBye();
     }
 }
