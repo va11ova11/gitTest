@@ -4,5 +4,6 @@ public class main {
         System.out.println("Hello world");
         person.SayHi();
         Person person1 = new Person("Vlad", 18);
+        Person person2 = new Person("Slavic",12);
     }
 }
