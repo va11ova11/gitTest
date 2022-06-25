@@ -1,3 +1,4 @@
-   .idea
-   gitTest.iml
-   out
+.idea
+
+out
+/gitTest.iml
