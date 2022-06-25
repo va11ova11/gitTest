@@ -23,4 +23,8 @@ public class Person {
     public int saylala(int id){
         return id +10;
     }
+
+    public void sayBye() {
+        System.out.println("saysay");
+    }
 }
