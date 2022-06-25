@@ -19,5 +19,8 @@ public class Person {
     public void sayBye(){
         System.out.println("Good Buy");
     }
+    public  void saysay(){
+        System.out.println("HiHiHI");
+    }
 
 }
