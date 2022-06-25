@@ -10,4 +10,21 @@ public class Person {
     public void SayHi(){
         System.out.println("Hello mazafaka");
     }
+
+    public int Pensia(int age){
+        int p  = 65 - age;
+        return p;
+    }
+
+    public  void saysay(){
+        System.out.println("HiHiHI");
+    }
+
+    public int saylala(int id){
+        return id +10;
+    }
+
+    public void sayBye() {
+        System.out.println("saysay");
+    }
 }
