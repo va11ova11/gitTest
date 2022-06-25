@@ -25,4 +25,8 @@ public class Person {
         System.out.println("Priv");
     }
 
+    public void Poka(){
+        System.out.println("Poka Poka chel");
+    }
+
 }

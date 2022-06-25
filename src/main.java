@@ -6,5 +6,6 @@ public class main {
         System.out.println(person.Pensia(18));
         person.sayBye();
         person.Privet();
+        person.Poka();
     }
 }
