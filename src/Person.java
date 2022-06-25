@@ -16,9 +16,6 @@ public class Person {
         return p;
     }
 
-    public void sayBye(){
-        System.out.println("Good Buy");
-    }
     public  void saysay(){
         System.out.println("HiHiHI");
     }
