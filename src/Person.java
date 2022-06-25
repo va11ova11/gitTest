@@ -8,6 +8,6 @@ public class Person {
     }
 
     public void SayHi(){
-        System.out.println("Hi");
+        System.out.println("Hello mazafaka");
     }
 }
