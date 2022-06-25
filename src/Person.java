@@ -21,4 +21,8 @@ public class Person {
         System.out.println("Good Buy");
     }
 
+    public void Privet(){
+        System.out.println("Priv");
+    }
+
 }

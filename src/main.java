@@ -5,5 +5,6 @@ public class main {
         person.SayHi();
         System.out.println(person.Pensia(18));
         person.sayBye();
+        person.Privet();
     }
 }
